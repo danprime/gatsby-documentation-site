@@ -1,0 +1,9 @@
+node_modules/
+public/
+.cache/
+.netlify
+.DS_Store
+test/**/public
+
+dist
+.vscode/
